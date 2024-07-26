@@ -1,6 +1,6 @@
 # CMFF
-The official implementation of "Self-Supervised Learning and Cross-Modal Feature Fusion for Online Knowledge Distillation" (TMM).  
+The official implementation of "Self-Supervised Learning and Cross-Modal Feature Fusion for Online Knowledge Distillation" (TMM).  <br>
 
-![image](https://github.com/Coralmss/CMFF/blob/main/method.png)
+![image](https://github.com/Coralmss/CMFF/blob/main/method.png) <br>
 
 ## Requirements
