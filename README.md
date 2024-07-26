@@ -18,6 +18,11 @@ unzip to the <code>./data</code> folder<br>
 ### Running
 #### Example
 <code>nohup python train_vgg.py --lr 0.1  --epoch 400  --cu_num 0  </code>
+<html>
+      <head>
+        nohup python train_vgg.py --lr 0.1  --epoch 400  --cu_num 0
+      </head>
+    </html>
 
 ### Results
 
