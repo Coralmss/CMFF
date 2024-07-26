@@ -27,13 +27,14 @@ unzip to the <code>./data</code> folder<br>
 
 
     
-### Results (Top-1 Acc) on CIFAR100
+## Results 
+### Top-1 Acc on CIFAR100
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
-### Results (Top-1 Acc) on TinyImageNet
+### Top-1 Acc on TinyImageNet
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
