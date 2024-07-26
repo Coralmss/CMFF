@@ -18,11 +18,26 @@ unzip to the <code>./data</code> folder<br>
 ### Running
 #### Example
 <code>nohup python train_vgg.py --lr 0.1  --epoch 400  --cu_num 0  </code>
-<html>
-      <head>
-        nohup python train_vgg.py --lr 0.1  --epoch 400  --cu_num 0
-      </head>
-    </html>
+
+<div style="position: relative; padding: 10px; background-color: #f6f8fa; border-radius: 6px;">
+  <pre style="margin: 0; padding: 10px; background-color: #f6f8fa; border: 1px solid #d1d5da; border-radius: 6px;">
+    <code>python train_baseline_cifar.py --arch wrn_16_2 --data ./data/ --gpu 0</code>
+  </pre>
+  <button onclick="copyCode()" style="position: absolute; right: 10px; top: 10px; background: none; border: none; cursor: pointer;">
+    📋
+  </button>
+</div>
+
+<script>
+  function copyCode() {
+    const code = document.querySelector('pre code').innerText;
+    navigator.clipboard.writeText(code).then(() => {
+      alert('Code copied to clipboard!');
+    });
+  }
+</script>
+
+    
 
 ### Results
 
