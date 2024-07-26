@@ -16,7 +16,7 @@ CIFAR-100  <br>
 TinyImageNet <br>
 unzip to the <code>./data</code> folder<br>
 ### Running
-Example: <br>
+#### Example
 <code>nohup python train_vgg.py --lr 0.1  --epoch 400  --cu_num 0  </code>
 
 ### Results
